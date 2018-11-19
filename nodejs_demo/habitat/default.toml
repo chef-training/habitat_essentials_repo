@@ -3,4 +3,7 @@
 # You can safely delete this file if you don't need it.
 #
 [css]
-background_color = '243442'
+background_color = '630fe0'
+
+[app]
+port = 8000
